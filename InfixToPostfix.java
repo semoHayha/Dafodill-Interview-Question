@@ -1,6 +1,8 @@
 //Problem Statement:- Write a function to convert from infix to postfix
 // Input:-  A+B*(C^D-E)
-// Outptu:- ABCD^E-*+
+// Output:- ABCD^E-*+
+
+// Took some help from geeks for geeks.
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
